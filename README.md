@@ -1,2 +1,2 @@
-# cv
-https://poborojo.github.io/cv/
+# Simple CV
+link - https://poborojo.github.io/cv/
